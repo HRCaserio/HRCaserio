@@ -1,7 +1,7 @@
-const RADIO_NAME = 'Jailson Web Rádio';
+const RADIO_NAME = 'HR Caserio';
 
 // Change Stream URL Here, Supports, ICECAST, ZENO, SHOUTCAST, RADIOJAR and any other stream service.
-const URL_STREAMING = 'https://stream.zeno.fm/yn65fsaurfhvv';
+const URL_STREAMING = 'https://stream.zeno.fm/dqz34ii2nw9vv';
 
 //API URL /
 const API_URL = 'https://api.twj.es/radio_info/?radio_url='+URL_STREAMING;
